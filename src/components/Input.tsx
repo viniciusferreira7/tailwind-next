@@ -26,9 +26,3 @@ export function Root(props: RootProps) {
     />
   )
 }
-
-const Input = {
-  Root,
-  Prefix,
-  Control,
-}
