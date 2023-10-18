@@ -134,7 +134,7 @@ export default function Home() {
             </label>
             <FileInput.Root className="flex items-start gap-5">
               <FileInput.Trigger />
-              <FileInput.Control />
+              <FileInput.Control multiple />
             </FileInput.Root>
           </div>
           <div className="flex items-center justify-end gap-2 pt-5">
