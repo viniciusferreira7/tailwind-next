@@ -3,7 +3,7 @@ import { ComponentProps } from 'react'
 type PrefixProps = ComponentProps<'div'>
 
 export function Prefix(props: PrefixProps) {
-  return <div {...props} />
+  return <div className="flex gap-2" {...props} />
 }
 type ControlProps = ComponentProps<'input'>
 
