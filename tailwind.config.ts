@@ -28,7 +28,7 @@ const config: Config = {
           700: '#B42318',
           800: '#912018',
           900: '#7A271A',
-        }
+        },
       },
       keyframes: {
         slideDownAndFade: {
